@@ -1,0 +1,1 @@
+"# Simple-Shopping-Cart"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Collins-99/Simple-Shopping-Cart.gitgit push -u origin main
